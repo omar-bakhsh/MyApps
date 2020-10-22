@@ -27,3 +27,4 @@ datamatrix
 ean13
 ean8 ..
 -----------------------------------------------
+3- at store : AppGellary -  AppName : Boo Emoji .
