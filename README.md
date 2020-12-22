@@ -1,7 +1,7 @@
 # MyAndroid Apps
 my released Apps On Apps Store
 
-1- at store : AppGellary -  AppName : VAT 15% Calculator %حاسبة ضريبة قيمة المضافة 15 .
+1- at store : AppGellary -  AppName : VAT world Calculator حاسبة ضريبة قيمة المضافة دول العالم .
 ---------------------------------------------
 App INFO
 ---------------------------------------------
@@ -22,9 +22,12 @@ Scan any Barcode or Qr code or DataQrCode
 Fast Scan 
 Fast share to other app 
 Copy Text in one Tap 
-App Code Support
+spech scanned text
+App Code Supported:
 datamatrix
 ean13
-ean8 ..
+ean8 
+qr 
+barvode..
 -----------------------------------------------
 3- at store : AppGellary -  AppName : Boo Emoji .
