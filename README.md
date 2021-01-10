@@ -1,5 +1,16 @@
 # MyAndroid Apps
 my released Apps On Apps Store
+تطبيقاتي الحالية ( #Andriod ) :-
+VAT World Calculator حاسبة ضريبة قيمة المضافة دول العالم 
+https://appgallery.huawei.com/#/app/C102609665 
+
+All Code Scanner with Voice Reader
+https://appgallery.huawei.com/#/app/C102756981
+
+Boo Emoji بوو ايموجي
+https://appgallery.huawei.com/#/app/C103121527
+
+------------------- MORE INFO ---------------
 
 1- at store : AppGellary -  AppName : VAT world Calculator حاسبة ضريبة قيمة المضافة دول العالم .
 ---------------------------------------------
