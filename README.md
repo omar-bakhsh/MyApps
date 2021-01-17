@@ -1,14 +1,24 @@
-# <h1>MyAndroid Apps</h1>
+# <h1>My Android Apps</h1>
 
-تطبيقاتي الحالية ( #Andriod ) :-
-VAT World Calculator حاسبة ضريبة قيمة المضافة دول العالم 
-https://appgallery.huawei.com/#/app/C102609665 
+<h4>
+تطبيقاتي الحالية ( #Andriod ) :-</h4>
 
-All Code Scanner with Voice Reader
-https://appgallery.huawei.com/#/app/C102756981
+<ol>
+  <li>VAT World Calculator حاسبة ضريبة قيمة المضافة دول العالم 
+https://appgallery.huawei.com/#/app/C102609665 </li>
 
-Boo Emoji بوو ايموجي
-https://appgallery.huawei.com/#/app/C103121527
+<li>All Code Scanner with Voice Reader
+https://appgallery.huawei.com/#/app/C102756981</li>
+
+<li>Boo Emoji بوو ايموجي
+https://appgallery.huawei.com/#/app/C103121527</li>
+
+<li></li>
+</ol>
+
+
+
+
 
 .
 .
